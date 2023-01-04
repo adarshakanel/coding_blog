@@ -1,0 +1,17 @@
+.blog p > img{
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 80% !important;
+    padding-left: 20%;
+}
+
+.blog h2{
+    text-align: center;
+}
+
+button.darker-blue-button{
+    background-color: #0e69a2;
+}
